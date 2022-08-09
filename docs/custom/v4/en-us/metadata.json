@@ -2,8 +2,8 @@
   "Technologies": [],
   "Categories": [
     {
-      "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
-      "Name": "Company Knowledge",
+      "Id": "18a7657c-9897-44c0-92e7-a4c8abcfdb67",
+      "Name": "Communication",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -11,8 +11,8 @@
       "SubCategories": []
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Computer Science",
+      "Id": "cad70fce-55e7-4e57-8743-3537a1c25d9c",
+      "Name": "Diversity and Inclusion",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -20,8 +20,8 @@
       "SubCategories": []
     },
     {
-      "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "Data Science",
+      "Id": "4e2194a0-064b-44a1-a3dd-33c2bb702338",
+      "Name": "Personal Growth",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -29,26 +29,8 @@
       "SubCategories": []
     },
     {
-      "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
-      "Name": "Industry Knowledge",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "Modelling",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "2656fb40-f250-4eee-935f-84d684fef487",
-      "Name": "Office 365",
+      "Id": "6d9acc96-d9bf-47a8-b6ab-8a907b69493d",
+      "Name": "Relationship Development",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
